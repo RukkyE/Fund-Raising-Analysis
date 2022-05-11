@@ -14,6 +14,7 @@ The organization needs a strategy to increase donations to fund the education of
 
 ## Root Cause Analysis
 Using this technique, I discovered the root cause of the business problem by asking the following “Why” questions; <br />
+
 QUESTION 1: Why is the organization in need of a strategy to increase donations?
 
 ANSWER: The target amount set for donations was not reached.
