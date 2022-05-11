@@ -7,14 +7,13 @@ In this project, I analysed the donations data of a charity organization "Educat
 The aim of the project is to develop fund-raising strategies to increase:
 * The number of donors  <br />
 * The donation frequency of donors  <br />
-* The value of donations  <br />
-in the database.
+* The value of donations in the database.
 
 ## Business Problem
 The organization needs a strategy to increase donations to fund the education of the less privileged. <br />
 
 ## Root Cause Analysis
-Using this technique, I discovered the root cause of the business problem by asking the following “Why” questions;
+Using this technique, I discovered the root cause of the business problem by asking the following “Why” questions; <br />
 QUESTION 1: Why is the organization in need of a strategy to increase donations?
 
 ANSWER: The target amount set for donations was not reached.
