@@ -49,7 +49,6 @@ ANSWER: There is no strategy in place to encourage existing donors who donate le
 I took the following steps for this process;
 * I imported the SQL files containing the data into Microsoft SQL to be able to run SQL queries.
 * I checked for duplicate values but discovered there was none because each row in the datasets represents the data for each donor.
-* I replaced Null values with "NA" (Not Applicable).
 
 ## Data Exploration
 I generated the following key metrics from the datasets;
