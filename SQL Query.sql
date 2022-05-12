@@ -50,9 +50,6 @@ DROP COLUMN second_language, favourite_colour, movie_genre;
 
 
 
-
-
-
 /* DATA EXPLORATION*/
 
 
@@ -98,7 +95,7 @@ ORDER BY SUM(Donation) DESC;
 
 
 
--- INSIGHT 1: List Of Donor Cars Whose Donors Donated Just ‘ONCE’ And Their Total Donations is <= $1000.
+-- INSIGHT 1: List Of Donor Cars Whose Donors Donated Just â€˜ONCEâ€™ And Their Total Donations is <= $1000.
 
 SELECT DISTINCT car, donation_frequency, SUM(donation) AS 'total donations' 
 FROM Donation_Data
