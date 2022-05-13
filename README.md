@@ -48,14 +48,28 @@ ANSWER: There is no strategy in place to encourage existing donors who donate le
 ## Data Cleaning
 I took the following steps for this process;
 * I imported the SQL files containing the data into Microsoft SQL to be able to run SQL queries.
-* I checked for duplicate values but discovered there was none because each row in the datasets represents the data for each donor.
+* I checked for duplicate values but discovered there was none because each row in the datasets represents the record for each donor.
 
 ## Data Exploration
-I generated the following key metrics from the datasets;
+I generated the following key insights from the datasets;
 * Total number of donors = 1000 donors
 *	Total amount of donations = $249,085
 *	Number of donor states of residence = 49 states
 *	Donor industries with the highest donation = Human Resources
 *	Donor state with the highest donation = California
+
+## Insights From My Analysis
+* Donor Cars Whose Donors Donated Just ‘ONCE’ With Total Donations <= $1000: 
+* Bottom 20 States With The Least Total Donations By Gender:
+* Top 7 Industries With The Highest Total Donors:
+* Total Donors In The Sales and Marketing Industries:
+* Total Donations By Donation Frequency and Gender:
+* Total Donors and Total Donations By University:
+
+## Recommendations
+
+## Relevant Links
+* [Tableau Dashboard](https://public.tableau.com/views/FundRaisingDashboard/FundRaisinigForEducationDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [LinkedIn](https://www.linkedin.com/in/rukevweevwrujae/)
 
 
