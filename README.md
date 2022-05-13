@@ -59,12 +59,12 @@ I generated the following key insights from the datasets;
 *	Donor state with the highest donation = California
 
 ## Insights From My Analysis
-* Donor Cars Whose Donors Donated Just ‘ONCE’ With Total Donations <= $1000: 
-* Bottom 20 States With The Least Total Donations By Gender:
-* Top 7 Industries With The Highest Total Donors:
-* Total Donors In The Sales and Marketing Industries:
-* Total Donations By Donation Frequency and Gender:
-* Total Donors and Total Donations By University:
+* Donor Cars Whose Donors Donated Just ‘Once’ With Total Donations <= $1000: Donors who own ‘Jaguar’ have the least Total Donation of $47 and those who own ‘Plymouth’ have the highest Total Donation of $984. Other donors who own more expensive cars like ‘Aston Martin’ have Total Donation of $294 and ‘Lamborghini’ with Total Donation of $589.
+* Bottom 20 States With The Least Total Donations By Gender: ‘Wyoming’ has the least Total Donations of $232 raised by a female and ‘Wisconsin’ having $2,591 with females having Total Donations of $958 and males having $1,633.
+* Top 7 Industries With The Highest Total Donors: ‘Business Development’ has 94 Total Donors and ‘Sales’ has 83 Total Donors.
+* Total Donors In The Sales and Marketing Industries: Sales’ has 83 Total Donors which is 8.3% of the Total Number of Donors and ‘Marketing’ has 74 Total Donors which is 7.4%, leaving a total of 843 Total Donors which is 84.3% in the other industries.
+* Total Donations By Donation Frequency and Gender: ‘Yearly’ donations have the highest frequency with Total Donation of $65,667, $31,375 for females and $34,292 for males while ‘Weekly’ has the least with Total Donations of $59,152, $31,755 for females and $27,397 for males.
+* Total Donors and Total Donations By University: Based on Total Donors, 748 donors attended a university while 252 donor didn't attend a university while based on Total Donations, donors who attended a university gave a Total Donation of $187,456 and donors who didn't attend a university gave a Total Donation of $61,629.
 
 ## Recommendations
 
