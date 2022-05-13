@@ -68,10 +68,10 @@ I generated the following key insights from the datasets;
 
 ## Recommendations
 * I recommended that the Marketing and Communications team of the organisation send existing donors appreciation messages to thank them for their donations and also share success stories with them on the organization’s website and social media pages to inspire them and make them know that their donations are making an impact for the following insights.
- ** Donors who own expensive cars like ‘Aston Martin’, ‘Lamborghini’, ‘Maserati’, ‘Mercedes-Benz’ etc, donated just ‘once’ and their total donations are <= $1000.
- ** Top 7 industries with the highest total donors.
- ** Total donations by donation frequency and gender
- ** Total donors and total donations by university status with focus on those who attended a university and know the value of education.
+ ** Donors who own expensive cars like ‘Aston Martin’, ‘Lamborghini’, ‘Maserati’, ‘Mercedes-Benz’ etc, donated just ‘once’ and their total donations are <= $1000. <br />
+ ** Top 7 industries with the highest total donors. <br />
+ ** Total donations by donation frequency and gender. <br />
+ ** Total donors and total donations by university status with focus on those who attended a university and know the value of education. <br />
 
 *	For the bottom 20 states who have the least total donations, I recommend organizing fundraising campaigns and events more often in these states by sharing success stories and education funding projects the organisation are done in recent times.
 
