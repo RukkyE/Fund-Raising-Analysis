@@ -45,12 +45,11 @@ QUESTION 6: Why were the donors not encouraged to donate more frequently?
 ANSWER: There is no strategy in place to encourage existing donors who donate less frequently to donate more often.
 
 
-## Data Cleaning
+## Data Exploration
 I took the following steps for this process;
 * I imported the SQL files containing the data into Microsoft SQL to be able to run SQL queries.
 * I checked for duplicate values but discovered there was none because each row in the datasets represents the record for each donor.
 
-## Data Exploration
 I generated the following key insights from the datasets;
 * Total number of donors = 1000 donors
 *	Total amount of donations = $249,085
