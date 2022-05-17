@@ -67,7 +67,7 @@ I generated the following key insights from the datasets;
 * __Total Donors and Total Donations By University Status__: Based on Total Donors, 748 donors attended a university while 252 donor didn't attend a university while based on Total Donations, donors who attended a university gave a Total Donation of $187,456 and donors who didn't attend a university gave a Total Donation of $61,629.
 
 ## Recommendations
-* I recommended that the Marketing and Communications team of the organisation send existing donors appreciation messages to thank them for their donations and also share success stories with them on the organization’s website and social media pages to inspire them and make them know that their donations are making an impact for the following insights. <br />
+* I recommended for the following insights that the Marketing and Communications team of the organisation send existing donors appreciation messages to thank them for their donations and also share success stories with them on the organization’s website and social media pages to inspire them and make them know that their donations are making an impact. <br />
  ** Donors who own expensive cars like ‘Aston Martin’, ‘Lamborghini’, ‘Maserati’, ‘Mercedes-Benz’ etc, donated just ‘once’ and their total donations are <= $1000. <br />
  ** Top 7 industries with the highest total donors. <br />
  ** Total donations by donation frequency and gender. <br />
