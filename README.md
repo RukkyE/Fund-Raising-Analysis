@@ -1,6 +1,6 @@
 # Analysis of a Fundraising Project using SQL
 This is a repository for the analysis of a fundraising project done by Rukevwe Evwrujae. <br />
-The dataset and SQL codes used for this project are included in the repository. <br />
+The datasets and SQL codes used for this project are included in the repository. <br />
 
 ## Introduction
 In this project, I analysed the donations data of a charity organization "Education for All", whose primary objective is providing standard education for less privileged individuals by raising donations from donors located in different states in the United States of America.  <br />
