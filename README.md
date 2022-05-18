@@ -4,7 +4,7 @@ The datasets and SQL codes used for this project are included in the repository.
 
 ## Introduction
 In this project, I analysed the donations data of a charity organization "Education for All", whose primary objective is providing standard education for less privileged individuals by raising donations from donors located in different states in the United States of America.  <br />
-The aim of the project is to develop fund-raising strategies to increase:
+The aim of the project is to develop fund-raising strategies to increase;
 * The number of donors  <br />
 * The donation frequency of donors  <br />
 * The value of donations in the database.
@@ -79,5 +79,4 @@ I generated the following key insights from the datasets;
 ## Relevant Links
 * [Tableau Dashboard](https://public.tableau.com/views/FundRaisingDashboard/FundRaisinigForEducationDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [LinkedIn](https://www.linkedin.com/in/rukevweevwrujae/)
-
 
