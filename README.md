@@ -50,7 +50,7 @@ I took the following steps for this process;
 * I imported the SQL files containing the data into Microsoft SQL to be able to run SQL queries.
 * I checked for duplicate values but discovered there was none because each row in the datasets represents the record for each donor.
 
-I generated the following key insights from the datasets;
+The following are some of the key insights I generated;
 * Total number of donors = 1000 donors
 *	Total amount of donations = $249,085
 *	Number of donor states of residence = 49 states
