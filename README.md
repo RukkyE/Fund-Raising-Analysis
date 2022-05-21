@@ -48,7 +48,7 @@ ANSWER: There is no strategy in place to encourage existing donors who donate le
 ## Data Exploration
 I took the following steps for this process;
 * I imported the SQL files containing the data into Microsoft SQL to be able to run SQL queries.
-* I checked for duplicate values but discovered there was none because each row in the datasets represents the record for each donor.
+* I checked for duplicate records but discovered there was none because each row in the datasets represents the record for each donor.
 
 The following are some of the key insights I generated;
 * Total number of donors = 1000 donors
