@@ -16,7 +16,7 @@ FROM Donor_data;
 
 
 -- Check For Duplicate Values in Donation_data Table
-SELECT COUNT (Donation_data.id) AS 'count of id'
+SELECT COUNT (DISTINCT Donation_data.id) AS 'count of id'
 FROM Donation_data
 GROUP BY Donation_data.id
 HAVING COUNT (Donation_data.id) > 1;
@@ -24,7 +24,7 @@ HAVING COUNT (Donation_data.id) > 1;
 
 
 -- Check For Duplicate Values in Donor_data Table
-SELECT COUNT (Donor_data.id) AS 'count of id'
+SELECT COUNT (DISTINCT Donor_data.id) AS 'count of id'
 FROM Donor_data
 GROUP BY Donor_data.id
 HAVING COUNT (Donor_data.id) > 1;
