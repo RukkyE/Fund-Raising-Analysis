@@ -44,12 +44,13 @@ QUESTION 6: Why were the donors not encouraged to donate more frequently?
 
 ANSWER: There is no strategy in place to encourage existing donors who donate less frequently to donate more often.
 
+## Data Cleaning
+The dataset of this project contains 2 SQL files with 1000 records each showing the donors' profiles and donations made. I took the following steps for this process;
+* I imported the SQL files into Microsoft SQL to be able to run SQL queries.
+* I checked for duplicate records but discovered there was none because each row in the datasets represents the record for each donor.
+* I also removed columns such as shirt size, second language, favourite colour and movie genre that are not useful from the datasets.
 
 ## Data Exploration
-I took the following steps for this process;
-* I imported the SQL files containing the data into Microsoft SQL to be able to run SQL queries.
-* I checked for duplicate records but discovered there was none because each row in the datasets represents the record for each donor.
-
 The following are some of the key insights I generated;
 * Total number of donors = 1000 donors
 *	Total amount of donations = $249,085
